@@ -1,0 +1,28 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByronPiedrahita/jsbase.git"
+  },
+  "keywords": [
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ByronPiedrahita/jsbase/issues"
+  },
+  "homepage": "https://github.com/ByronPiedrahita/jsbase#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^26.6.3"
+  }
+}
